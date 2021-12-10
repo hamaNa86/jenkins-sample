@@ -10,7 +10,7 @@
   
   <properties>
   <sonar.organization>hamana86</sonar.organization>
-  <sonar.projectKey>bhamana86_jenkins-sample</sonar.projectKey>
+  <sonar.projectKey>hamana86_jenkins-sample</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
  </properties>
   
