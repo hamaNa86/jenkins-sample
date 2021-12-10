@@ -36,4 +36,9 @@ public class AppTest
         assertTrue( true);
     }
     
+        public void testFormation()
+    {
+        assertTrue( true);
+    }
+    
 }
